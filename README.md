@@ -1,3 +1,4 @@
+# Currency Converter App
 # Objective: 
 Your task is to develop a console-based Java application that converts amounts between various currencies. The application will include a console menu, efficiently handle user input, and accurately perform currency conversions using predefined exchange rates.
 
